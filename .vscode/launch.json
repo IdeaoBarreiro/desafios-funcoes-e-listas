@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://saudacao2('Ideão');",
+            "request": "launch",
+            "url": "http://saudacao2('Ideão');"
+        }
+    ]
+}
